@@ -1,0 +1,13 @@
+# Core ML dependencies
+tensorflow==2.19.0
+numpy==1.26.4
+
+# Image processing
+Pillow==10.2.0
+
+# Web framework
+flask==2.2.2
+Werkzeug==2.2.2
+
+# WSGI server
+gunicorn==20.1.0
